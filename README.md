@@ -4,7 +4,7 @@
 This document only applies to myself and not other managers at Graphiq/Amazon.  Every SDM has their own style and quirks.  This doc attempts to fill you in on some of mine.
 
 ## Wat is Dis
-We need to get to know each other a bit to work effectively together.  This document will help "prime the pump" and get that relationship going.  It should also make some of the most critical expectations as clear as possible for your first few months.
+We need to get to know each other a bit to work effectively together.  This document will help "prime the pump" and get that relationship going.  It should also make some of the most critical expectations as clear as possible early on, setting you up for success.
 
 ## My Leadership Philosophy
 I am a big beleiver in servant leadership.  I exist to make it easier for you and the team to do great work.  I want you to grow as a developer, I want the team to grow in its responsibiltiites, and I want Alexa to grow because our team is successful.
@@ -14,17 +14,17 @@ In order of decreasing importance:
 1. People manager  
 There is a lot going on with the people of our team.  I need to learn and know quite a bit about the personal and professional context of each individual.  This helps me guide the right projects to the right people, making each engineer maximally effective and helping them grow over time.  It also helps make this a great team to be on.
 
-2. Project manager
+2. Project manager  
 I manage all of the in-flight sprints and plan out our upcoming project roadmap.  I am contantly weighing many factors to determine project priorities.  Most times I will leave the final sprint planning to the engineers because I want to dictate the "what" and not the "how".  It is your job as an engineer to decide how we will solve the technical challenges assigned to our team.
 
 3. Product manager  
 While we have a dedicated product manager, I also do a lot of work across groups to understand how our software is used and what features/fixes should be prioritized.  I also coordinate with other team so I can more effectively prioritize our projects.
 
 4. Software engineer  
-With my last promotion I find that I am no longer doing any significant software development.  Still, I always work to stay sharp technically so I can effectively understand the challenges facing the team.  Coding is why I got in the business and I always want to keep my "hands dirty".  I often try to take care of the minor work, paving the road for you to focus on major contributions and projects.
+With my last promotion I find that I am no longer doing significant software development work.  Still, I always work to stay sharp technically so I can effectively understand the challenges facing the team.  Coding is why I got in the business and I always want to keep my "hands dirty" in some way.  I often try to take care of the minor work, paving the road for you to focus on major contributions and projects.
 
 ## Empowerment
-I am try very hard to not be an authoritarian boss.  I want to provide a work environment where you can be creative, deliver value, and shine as an engineer.
+I try very hard to not be an authoritarian boss.  I want to provide a work environment where you can be creative, deliver value, and shine as an engineer.
 
 • I believe in and practice servant leadership, meaning I serve you and not the other way around.
 
@@ -41,7 +41,7 @@ My default management mode is to let you handle your work without much guidance 
 
 • I may provide suggestions, but I will try to not force a solution.
 
-• At the end of the day, you own the code and know more than I do. I will trust your judgement.  
+• At the end of the day, you own the code and know more about our systems than I do. I will trust your judgement.  
 
 • Everyone is different, and I realize some engineers need more guidance than others. If you need more direction from me then please let me know as soon as possible.  
 
@@ -49,14 +49,17 @@ My default management mode is to let you handle your work without much guidance 
 
 ## What do I value most?
 Listed by Amazon Leadership Principle:  
-• Customer Obsession.  We should care deeply about how our customers use our software and what they need from us in the future.
+• Customer Obsession.  
+We should care deeply about how our customers use our software and what they need from us in the future.
 
-• Insisting on Highest Standards.  We should be delivering top-quality software at all times.  We will occasionally take on technical debt to speed things along, but at no time will we compromise our standards.
+• Insisting on Highest Standards.  
+We should be delivering top-quality software at all times.  We will occasionally take on technical debt to speed things along, but at no time will we compromise our standards.
 
-• Delivering Results. This is what we are here for - to deliver solutions that delight our customers and make their lives easier.
+• Delivering Results. 
+This is what we are here for - to deliver solutions that delight our customers and make their lives easier/better.
 
 ## What will dissapoint me?
-This is pretty much the inverse of what I value most:  
+This is pretty much the inverse of the points above:  
 • Not caring about our customers or how our software impacts their work.  
 • Not being invested in our software development or the team.  
 • Delivering substandard software with low quality.
@@ -75,14 +78,14 @@ This is pretty much the inverse of what I value most:
 ## Personality Quirks
 Everyone has particular personality quirks.  I try to list a few of mine here so you are aware of them.
 
-• I am very friendly and flexible, but I do have limits.  For example, need a last minute day off?  Shouldn't be an issue.  What about a string of last-minute PTO requests?  The first few I will probably be fine, but once it becomes a pattern then my irritation _will__ scale up.  I will work hard to let you know when you are close to the line so you can course-correct early.
+• I am very friendly and flexible, but I do have limits.  For example, need a last minute day off?  Shouldn't be an issue.  What about a string of several last-minute PTO requests?  The first few will probably be fine, but once it becomes a pattern then my irritation scales up.  I will work hard to let you know when you are close to the line so you can course-correct early.
 
-• I can get stressed out on rare occasions, like most people  
+• I can get stressed out on rare occasions, like most people.  
 - When this happens, I may be seem to be in a hurry or otherwise distracted
-- Please call me out on it if you feel this is happening and I will take a step back
+- Please call me out on it if you feel this is happening and I will take a step back (really)
 
-• I have a tendency to want to be right  
-- Sometimes I am just playing devil's advocate.  Other times, I can keep pushing a point because I think it’s right, not because it objectively is.  
+• Sometimes I have a tendency to want to be right  
+- Often I am just playing devil's advocate.  Other times, I can keep pushing a point because I think it’s right, not because it objectively is.  
 - Please call me out on it if you feel this is happening and I will reconsider my position.
 
 • When giving feedback, I tend to skew toward the "big picture".  
@@ -156,15 +159,15 @@ I love feedback.  I feel strongly that it is super-crtiical to both your success
 ## New Employee Expectations
 • It is expected that you will put in sufficient extra work to onboard as quickly as possible.  More than eight hours of work is sometimes expected on this team, and your first few months is one time when additional effort is required.
 
-• You spend most of your time working at your desk in the first few months.  You are going to need a lot of input from your peers at first, and that is difficult to obtain when you are away from the group.
+• You spend most of your time working around the team in the first few months.  You are going to need a lot of input from your peers at first, and that is difficult to obtain when you are sitting away from the group.
 
-• New employees should only rarely work remotely.  We want you here, learning with us for a while at first.  A remote day or two isn't terrible, but generally you should be in the office.
+• I fully expect that ,at some point in the first three months, you will take down one of our production systems. As long as you are doing your best to avoid production errors then I will not be dissapointed by this. We run complex systems, and it takes time to learn them. My only request is that you learn from your mistakes and not make the same mistake twice.
 
 ## The Road Ahead
 This is a lot to take in all at once, I know.  Still, I have high confidence in your ability to get up to speed on the team.  I wouldn't have hired you otherwise.  There are going to be plenty of bumps in the road ahead: code that makes no sense, undefined goals, a cranky sprint parter, and ineffective management on my part from time-to-time.  When this happens, we will work together to get through it and learn from the mistakes.  
 
 ## End Random Miscellany
-• GIF pronunciation: It is "gif" not "jif".  I know the creator of GIFs says otherwise, but he is sorely mistaken.
+• GIF pronunciation: I think it is "gif" not "jif".  I know the creator of GIFs says otherwise, but he is mistaken.
 
 • Tabs vs Spaces.  Spaces, always.  This was the coding standard at every job I have worked at and is the coding standard for our team.
 
@@ -176,5 +179,7 @@ This is a lot to take in all at once, I know.  Still, I have high confidence in 
 
 • I am just now getting into SCUBA diving.  The Channel Islands, visible from our office, are a wonderful place to sightsee underwater.
 
-• I am a heavy user of memes in chat and my emails.
+• I still like to do embedded programming on the weekends. I set up a LoRa radio network at my house to control lights and read sensor data.
+
+• My communication can get meme-heavy at times. Feel free to send me funny cats at any time.
 
